@@ -1,0 +1,11 @@
+﻿.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credential*
+*secret*
+*.token
+node_modules/
